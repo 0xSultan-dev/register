@@ -1,0 +1,11 @@
+{
+    "description": "NyZk - Kick streamer landing page",
+    "domain": "is-cool.dev",
+    "subdomain": "nyzk",
+    "owner": {
+        "username": "0xSultan-dev"
+    },
+    "record": {
+        "CNAME": "0xsultan-develop.github.io"
+    }
+}
